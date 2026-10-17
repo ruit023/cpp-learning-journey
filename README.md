@@ -33,6 +33,6 @@ This Python application was built as part of an assignment to manage daily inven
 
 You can run and test this notebook directly in Google Colab without installing anything locally:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ruit023/CoopMart-Inventory-System/blob/main/Assignment_TEY_S2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ruit023/cpp-learning-journey/blob/main/Assignment_TEY_S2.ipynb)
 
 
