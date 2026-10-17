@@ -1,9 +1,9 @@
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3.x-111B15?style=for-the-badge&logo=python&logoColor=00FF66&labelColor=080D0A" alt="Python" />
-  <img src="https://img.shields.io/badge/Google_Colab-Notebook-111B15?style=for-the-badge&logo=googlecolab&logoColor=F9AB00&labelColor=080D0A" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/UTM-Network_%26_Security-111B15?style=for-the-badge&logo=shieldsdotio&logoColor=00FF66&labelColor=080D0A" alt="UTM" />
-  <img src="https://img.shields.io/badge/Status-Completed-111B15?style=for-the-badge&logoColor=00FF66&labelColor=080D0A" alt="Status" />
-</p>
+| 🛠️ Tech Stack | 📌 Specifications & Details |
+| :--- | :--- |
+| **Language** | ![Python](https://img.shields.io/badge/Python-3.x-00FF66?style=flat-square&logo=python&logoColor=black&labelColor=16221B) |
+| **Environment** | ![Google Colab](https://img.shields.io/badge/Google_Colab-Jupyter_Notebook-00FF66?style=flat-square&logo=googlecolab&logoColor=black&labelColor=16221B) |
+| **Institution** | ![UTM](https://img.shields.io/badge/UTM-Network_%26_Security-00FF66?style=flat-square&logo=github&logoColor=black&labelColor=16221B) |
+| **Status** | ![Status](https://img.shields.io/badge/Status-Completed-00FF66?style=flat-square&labelColor=16221B) |
 #  cpp-learning-journey
 A collection of my Python exercises for Matriculation coursework.
 # 🛒 CoopMart Inventory Management System
