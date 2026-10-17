@@ -1,3 +1,9 @@
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.x-00FF66?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
+  <img src="https://img.shields.io/badge/Google%20Colab-Notebook-00FF66?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/UTM-Network%20%26%20Security-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="UTM" />
+  <img src="https://img.shields.io/badge/Status-Completed-00FF66?style=for-the-badge" alt="Status" />
+</p>
 #  cpp-learning-journey
 A collection of my Python exercises for Matriculation coursework.
 # 🛒 CoopMart Inventory Management System
