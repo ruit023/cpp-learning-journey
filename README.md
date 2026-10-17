@@ -33,4 +33,4 @@ This Python application was built as part of an assignment to manage daily inven
 1. Run the script directly in **Google Colab** or any local Python environment (VS Code, PyCharm, IDLE).
 2. Execute the script:
    ```bash
-   python main.py
+Assignment_TEY_S2.ipynb
