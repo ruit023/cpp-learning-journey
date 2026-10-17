@@ -1,9 +1,9 @@
-| 🛠️ Tech Stack | 📌 Specifications & Details |
-| :--- | :--- |
-| **Language** | ![Python](https://img.shields.io/badge/Python-3.x-00FF66?style=flat-square&logo=python&logoColor=black&labelColor=16221B) |
-| **Environment** | ![Google Colab](https://img.shields.io/badge/Google_Colab-Jupyter_Notebook-00FF66?style=flat-square&logo=googlecolab&logoColor=black&labelColor=16221B) |
-| **Institution** | ![UTM](https://img.shields.io/badge/UTM-Network_%26_Security-00FF66?style=flat-square&logo=github&logoColor=black&labelColor=16221B) |
-| **Status** | ![Status](https://img.shields.io/badge/Status-Completed-00FF66?style=flat-square&labelColor=16221B) |
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.x-00FF66?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
+  <img src="https://img.shields.io/badge/Google%20Colab-Notebook-00FF66?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/UTM-Network%20%26%20Security-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="UTM" />
+  <img src="https://img.shields.io/badge/Status-Completed-00FF66?style=for-the-badge" alt="Status" />
+</p>
 #  cpp-learning-journey
 A collection of my Python exercises for Matriculation coursework.
 # 🛒 CoopMart Inventory Management System
