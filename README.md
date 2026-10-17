@@ -29,8 +29,10 @@ This Python application was built as part of an assignment to manage daily inven
 
 ---
 
-### 🚀 How to Run
-1. Run the script directly in **Google Colab** or any local Python environment (VS Code, PyCharm, IDLE).
-2. Execute the script:
-   ```bash
-      Assignment_TEY_S2.ipynb
+### 🚀 How to Run & Test
+
+You can run and test this notebook directly in Google Colab without installing anything locally:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ruit023/CoopMart-Inventory-System/blob/main/Assignment_TEY_S2.ipynb)
+
+
