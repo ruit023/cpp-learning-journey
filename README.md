@@ -1,8 +1,8 @@
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3.x-00FF66?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
-  <img src="https://img.shields.io/badge/Google%20Colab-Notebook-00FF66?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/UTM-Network%20%26%20Security-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="UTM" />
-  <img src="https://img.shields.io/badge/Status-Completed-00FF66?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Python-3.x-111B15?style=for-the-badge&logo=python&logoColor=00FF66&labelColor=080D0A" alt="Python" />
+  <img src="https://img.shields.io/badge/Google_Colab-Notebook-111B15?style=for-the-badge&logo=googlecolab&logoColor=F9AB00&labelColor=080D0A" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/UTM-Network_%26_Security-111B15?style=for-the-badge&logo=shieldsdotio&logoColor=00FF66&labelColor=080D0A" alt="UTM" />
+  <img src="https://img.shields.io/badge/Status-Completed-111B15?style=for-the-badge&logoColor=00FF66&labelColor=080D0A" alt="Status" />
 </p>
 #  cpp-learning-journey
 A collection of my Python exercises for Matriculation coursework.
